@@ -4,7 +4,7 @@
       "value": 250,
       "density": {
         "enable": true,
-        "value_area": 2000
+        "value_area": 2500
       }
     },
     "color": {
@@ -54,7 +54,7 @@
     },
     "move": {
       "enable": true,
-      "speed": 1.5,
+      "speed": 1,
       "direction": "none",
       "random": false,
       "straight": false,
